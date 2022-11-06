@@ -2,7 +2,9 @@ Hey 👋, I am Yuvraj!
 
 👨‍🎓 I'm pursuing my B.E. in Computer Science from Birla Institute of Technology and Science (BITS) Pilani.
 
-💖 I’m interested in Web Development & Machine Learning in general.
+💖 I’m interested in Web Development & Machine Learning.
+
+💵 I'm also enthusiastic about Finance.
 
 🌱 I’m currently learning Backend Web Development. 
 
