@@ -1,13 +1,46 @@
-Hey 👋, I am Yuvraj!
+<h1 align="center">Hello, I'm Yuvraj</h1>
+<h3 align="center"></h3>
 
-👨‍🎓 I'm pursuing my B.E. in Computer Science from Birla Institute of Technology and Science (BITS) Pilani.
+### 👩🏽‍💻 About Me
+🚀 Currently sophomore at BITS Pilani University
+🌱 Learning Machine Learning 
+👯 Looking out for opportunities to collaborate in web dev and python projects  
+⚡ Fun fact :I Love ⚽/🏎️   
+📫 Reach out to me at [doshiyuvraj@gmail.com](doshiyuvraj@gmail.com)  
 
-💖 I’m interested in Web Development & Machine Learning.
+#
 
-💵 I'm also enthusiastic about Finance.
+### 🛠 Tech Stack
+<p>
+<img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/python/python-original.svg" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/c/c-original.svg" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/java/java-original.svg" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/go/go-original.svg" width="50" height="50"/>
 
-🌱 I’m currently learning Backend Web Development. 
 
-💬 Ask me about anything, I'll be happy to help.
+<img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/django/django-original.svg" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/spring/spring-original.svg" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50"/>
 
-📫 You can reach me via gmail (doshiyuvraj@gmail.com or f20212425@pilani.bits-pilani.ac.in).
+
+<img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/intellij/intellij-original.svg" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/vscode/vscode-original.svg" width="50" height="50"/>
+</p>
+
+
+#
+
+### 📈 Github Stats
+<img src="https://komarev.com/ghpvc/?username=YuvrajDoshi01"/>
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=YuvrajDoshi01&theme=tokyonight)
+
+
+#
+
+### ☕ Let's Connect
+<a href="https://twitter.com/YuvrajDoshi"><img src="https://cdn.cdnlogo.com/logos/t/48/twitter.png" alt="Twitter Account" width="35"/></a>
+<a href="https://www.linkedin.com/in/yuvraj-doshi-a86651227"><img src="https://cdn.cdnlogo.com/logos/l/66/linkedin-icon.svg" alt="LinkedIn Account" width="30"/></a>
+<a href="https://www.instagram.com/_yuvrajdoshi/"><img src="https://cdn.cdnlogo.com/logos/i/92/instagram.svg" alt="Instagram Account" width="30"/></a>
+#
