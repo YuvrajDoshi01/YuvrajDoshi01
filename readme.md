@@ -3,9 +3,13 @@
 
 ### 👩🏽‍💻 About Me
 🚀 Currently sophomore at BITS Pilani University
+
 🌱 Learning Machine Learning 
-👯 Looking out for opportunities to collaborate in web dev and python projects  
-⚡ Fun fact :I Love ⚽/🏎️   
+
+👯 Looking out for opportunities to collaborate in web dev and python projects
+
+⚡ Fun fact :I Love ⚽/🏎️
+
 📫 Reach out to me at [doshiyuvraj@gmail.com](doshiyuvraj@gmail.com)  
 
 #
