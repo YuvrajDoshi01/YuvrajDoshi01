@@ -1,3 +1,6 @@
+<img src = "https://media.giphy.com/media/3o7aD3Qwqxq3lln8Mg/giphy.gif" width = 100%/>
+
+
 <h1 align="center">Hello, I'm Yuvraj</h1>
 <h3 align="center"></h3>
 
