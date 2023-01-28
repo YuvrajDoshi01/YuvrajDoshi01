@@ -16,20 +16,20 @@
 
 ### 🛠 Tech Stack
 <p>
-<img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/python/python-original.svg" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/c/c-original.svg" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/java/java-original.svg" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/go/go-original.svg" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/python/python-original.svg" width="50" height="50"/> 
+<img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/c/c-original.svg" width="50" height="50"/> 
+<img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/java/java-original.svg" width="50" height="50"/> 
+<img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/> 
+<img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/go/go-original.svg" width="50" height="50"/> 
 
 
-<img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/django/django-original.svg" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/spring/spring-original.svg" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/django/django-original.svg" width="50" height="50"/> 
+<img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/spring/spring-original.svg" width="50" height="50"/> 
+<img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50"/> 
 
 
-<img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/intellij/intellij-original.svg" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/vscode/vscode-original.svg" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/intellij/intellij-original.svg" width="50" height="50"/> 
+<img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/vscode/vscode-original.svg" width="50" height="50"/> 
 </p>
 
 
@@ -43,7 +43,7 @@
 #
 
 ### Connect with me
-<a href="https://twitter.com/YuvrajDoshi"><img src="https://cdn.cdnlogo.com/logos/t/48/twitter.png" alt="Twitter Account" width="35"/></a>
-<a href="https://www.linkedin.com/in/yuvraj-doshi-a86651227"><img src="https://cdn.cdnlogo.com/logos/l/66/linkedin-icon.svg" alt="LinkedIn Account" width="30"/></a>
-<a href="https://www.instagram.com/_yuvrajdoshi/"><img src="https://cdn.cdnlogo.com/logos/i/92/instagram.svg" alt="Instagram Account" width="30"/></a>
+<a href="https://twitter.com/YuvrajDoshi"><img src="https://cdn.cdnlogo.com/logos/t/48/twitter.png" alt="Twitter Account" width="35"/></a>  
+<a href="https://www.linkedin.com/in/yuvraj-doshi-a86651227"><img src="https://cdn.cdnlogo.com/logos/l/66/linkedin-icon.svg" alt="LinkedIn Account" width="30"/></a>  
+<a href="https://www.instagram.com/_yuvrajdoshi/"><img src="https://cdn.cdnlogo.com/logos/i/92/instagram.svg" alt="Instagram Account" width="30"/></a> 
 #
