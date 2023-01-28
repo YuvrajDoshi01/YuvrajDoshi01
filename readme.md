@@ -32,14 +32,13 @@
 #
 
 ### 📈 Github Stats
-<img src="https://komarev.com/ghpvc/?username=YuvrajDoshi01"/>
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=YuvrajDoshi01&theme=tokyonight)
 
 
 #
 
-### ☕ Let's Connect
+### Connect with me
 <a href="https://twitter.com/YuvrajDoshi"><img src="https://cdn.cdnlogo.com/logos/t/48/twitter.png" alt="Twitter Account" width="35"/></a>
 <a href="https://www.linkedin.com/in/yuvraj-doshi-a86651227"><img src="https://cdn.cdnlogo.com/logos/l/66/linkedin-icon.svg" alt="LinkedIn Account" width="30"/></a>
 <a href="https://www.instagram.com/_yuvrajdoshi/"><img src="https://cdn.cdnlogo.com/logos/i/92/instagram.svg" alt="Instagram Account" width="30"/></a>
