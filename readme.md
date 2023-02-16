@@ -8,7 +8,7 @@
 
 👯 Looking out for opportunities to collaborate in web dev and python projects
 
-⚡ Fun fact :I Love ⚽/🏎️
+I Love ⚽/🏎️
 
 📫 Reach out to me at [doshiyuvraj@gmail.com](doshiyuvraj@gmail.com)  
 
