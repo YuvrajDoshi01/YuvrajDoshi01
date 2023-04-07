@@ -1,18 +1,25 @@
-<h1 align="center">Hello, I'm Yuvraj</h1>
-<h3 align="center"></h3>
+### Hey 👋, I am Yuvraj!
+- 👨‍🎓 B.E. Computer Science undergraduate from Birla Institute of Technology and Science (BITS) Pilani, India
+- 🌱 Learning full-stack Web (Front/Back/UI-UX) Dev.
+- 💬 Ask me anything, always willing to help!
+- 📫 Reach out to me any time. I will try to respond within a day. Links follow-
 
-### 👩🏽‍💻 About Me
-🚀 Currently sophomore at BITS Pilani University
+<!-- Connection Links -->
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yuvraj-doshi-a86651227/)&nbsp;&nbsp;
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/YuvrajDoshi01)&nbsp;&nbsp;
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:doshiyuvraj@gmail.com)
 
-🌱 Learning Machine Learning 
+<!-- User Stats -->
+<p align="center">
+  <img align="center" src="https://img.shields.io/github/followers/YuvrajDoshi01?style=social" />  
+  <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=YuvrajDoshi01.visitor-badge" />
+</p>
 
-👯 Looking out for opportunities to collaborate in web dev and python projects
-
-I Love ⚽/🏎️
-
-📫 Reach out to me at [doshiyuvraj@gmail.com](doshiyuvraj@gmail.com)  
-
-#
+<!-- Coding Stats -->
+<p align="center">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=YuvrajDoshi01&show_icons=true&theme=dark" /> <br><br>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YuvrajDoshi01&theme=dark" /> <br><br>
+</p>
 
 ### 🛠 Tech Stack
 <p>
@@ -32,18 +39,3 @@ I Love ⚽/🏎️
 <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/vscode/vscode-original.svg" width="50" height="50"/> 
 </p>
 
-
-#
-
-### 📈 Github Stats
-
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=YuvrajDoshi01&theme=tokyonight)
-
-
-#
-
-### Connect with me
-<a href="https://twitter.com/YuvrajDoshi"><img src="https://cdn.cdnlogo.com/logos/t/48/twitter.png" alt="Twitter Account" width="35"/></a>  
-<a href="https://www.linkedin.com/in/yuvraj-doshi-a86651227"><img src="https://cdn.cdnlogo.com/logos/l/66/linkedin-icon.svg" alt="LinkedIn Account" width="30"/></a>  
-<a href="https://www.instagram.com/_yuvrajdoshi/"><img src="https://cdn.cdnlogo.com/logos/i/92/instagram.svg" alt="Instagram Account" width="30"/></a> 
-#
