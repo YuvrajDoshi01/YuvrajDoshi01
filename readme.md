@@ -1,12 +1,10 @@
 ### Hey 👋, I am Yuvraj!
 - 👨‍🎓 B.E. Computer Science undergraduate from Birla Institute of Technology and Science (BITS) Pilani, India
-- 🌱 Learning full-stack Web (Front/Back/UI-UX) Dev.
-- 💬 Ask me anything, always willing to help!
-- 📫 Reach out to me any time. I will try to respond within a day. Links follow-
+- Math / Stats / Comp Sci / Finance
 
+  
 <!-- Connection Links -->
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yuvraj-doshi-a86651227/)&nbsp;&nbsp;
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/YuvrajDoshi01)&nbsp;&nbsp;
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:doshiyuvraj@gmail.com)
 
 <!-- User Stats -->
@@ -38,4 +36,5 @@
 <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/intellij/intellij-original.svg" width="50" height="50"/> 
 <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/vscode/vscode-original.svg" width="50" height="50"/> 
 </p>
+
 
