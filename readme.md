@@ -1,40 +1,42 @@
-### Hey 👋, I am Yuvraj!
-- 👨‍🎓 B.E. Computer Science undergraduate from Birla Institute of Technology and Science (BITS) Pilani, India
-- Math / Stats / Comp Sci / Finance
+# Hi, I am Yuvraj
 
-  
-<!-- Connection Links -->
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yuvraj-doshi-a86651227/)&nbsp;&nbsp;
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:doshiyuvraj@gmail.com)
+Grad student @ NC State / Duke | Ex-SWE @ Intuit & Walmart Global Tech | BITS Pilani Alum
 
-<!-- User Stats -->
-<p align="center">
-  <img align="center" src="https://img.shields.io/github/followers/YuvrajDoshi01?style=social" />  
-  <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=YuvrajDoshi01.visitor-badge" />
-</p>
+I build low-latency systems, research quantitative volatility models, and compete in algorithmic trading challenges. Most of my work sits at the intersection of C++, Python, statistical mechanics, and market microstructure.
 
-<!-- Coding Stats -->
-<p align="center">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=YuvrajDoshi01&show_icons=true&theme=dark" /> <br><br>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YuvrajDoshi01&theme=dark" /> <br><br>
-</p>
+---
 
-### 🛠 Tech Stack
-<p>
-<img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/python/python-original.svg" width="50" height="50"/> 
-<img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/c/c-original.svg" width="50" height="50"/> 
-<img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/java/java-original.svg" width="50" height="50"/> 
-<img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/> 
-<img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/go/go-original.svg" width="50" height="50"/> 
+### Focus & Research
 
+- **Quantitative Research:** Nonparametric option pricing via monotone I-splines and J-splines, skew-generalized $t$ return modeling, and volatility surface reconstruction.
+- **Low-Latency & Systems:** High-throughput order books, SPSC lock-free queues, spatial indexing engines, and high-volume data pipelines in C++ and Go.
+- **Competitions:** Global Rank 35 / 18,803 in IMC Prosperity 4; Global Rank 47 in Jump Trading Probability Cup.
 
-<img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/django/django-original.svg" width="50" height="50"/> 
-<img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/spring/spring-original.svg" width="50" height="50"/> 
-<img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50"/> 
+---
 
+### Selected Projects
 
-<img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/intellij/intellij-original.svg" width="50" height="50"/> 
-<img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/vscode/vscode-original.svg" width="50" height="50"/> 
-</p>
+| Project | Stack | Highlights |
+| :--- | :--- | :--- |
+| **[ISplines](https://github.com/YuvrajDoshi01/ISplines)** | Python, SciPy | Nonparametric arbitrage-free option pricing engine using integrated spline structures. |
+| **[LimitOrderBook](https://github.com/YuvrajDoshi01/LimitOrderBook)** | C++20 | Cache-friendly, low-latency limit order book with minimal memory allocations. |
+| **[SPSC-Lock-Free-queue](https://github.com/YuvrajDoshi01/SPSC-Lock-Free-queue)** | C++ | Single-producer single-consumer ring buffer using acquire-release memory semantics. |
+| **[Hilbert-R-Tree](https://github.com/YuvrajDoshi01/Hilbert-R-Tree)** | C | Spatial indexing engine featuring Hilbert curve sorting and deferred split logic. |
+| **[Karna-Strat](https://github.com/YuvrajDoshi01/Karna-Strat)** | Python | Intraday statistical arbitrage and vectorized backtesting infrastructure. |
 
+---
 
+### Toolbox
+
+- **Languages:** Python, Java, C, Go, SQL, Scala
+- **Quant & ML:** NumPy, SciPy, Pandas, Statsmodels, PyTorch, SymPy
+- **Data & Infra:** ClickHouse, PostgreSQL, Redis, Kafka, Docker, Spark
+- **Tools & Environments:** Linux, Git, CMake, GDB, Valgrind
+
+---
+
+### Connect
+
+- **LinkedIn:** [linkedin.com/in/yuvrajdoshi](https://www.linkedin.com)
+- **Twitter/X:** [@Yuvrajdoshi](https://x.com/Yuvrajdoshi)
+- **Email:** [Gmail](mailto:doshiyuvraj@gmail.com)
